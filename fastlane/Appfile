@@ -5,3 +5,6 @@ team_id "" # Developer Portal Team ID
 
 # you can even provide different app identifiers, Apple IDs and team names per lane:
 # More information: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Appfile.md
+team_id "PGP7B8YQAS"
+team_name "Iichiro Kawashima"
+apple_id "i.kawashima41.dev@gmail.com"
